@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\bin\Debug\net8.0\Programa1.exe
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\bin\Debug\net8.0\Programa1.deps.json
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\bin\Debug\net8.0\Programa1.runtimeconfig.json
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\bin\Debug\net8.0\Programa1.dll
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\bin\Debug\net8.0\Programa1.pdb
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.AssemblyInfo.cs
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.sourcelink.json
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.dll
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\refint\Programa1.dll
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.pdb
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\Programa1.genruntimeconfig.cache
+C:\Users\Rodrigo\Estudos\Programas em C#\Programa1\Programa1\obj\Debug\net8.0\ref\Programa1.dll
