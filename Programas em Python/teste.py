@@ -1,20 +1,21 @@
+
+    
+    
+P = input("Digite um primeiro valor:")
+R = input("Digite um segundo valor:")
+I = input("Digite um terceiro valor:")
 a = [0, 0]
-a[0] = 5
-n = 0
-while n < 5:
-    a[n+1] = a[n] + 2
-    if n == 4:
-        break
-    else:
+a[1] = float(P)
+r = float(R)
+i = int(I)
+n = 1
+while n < i+1:
+    if n > 1:
         a.append(0)
+        a[n] = a[1] + (n-1)*r
     n = n + 1
 print(a)
-
-
-
-    
-    
-
+  
 
 
 
