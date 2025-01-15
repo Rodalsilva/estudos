@@ -1,5 +1,4 @@
 
-
 def progressao_aritmetica(P, R, I):
     a = [0, 0]
     a[1] = float(input(P))
