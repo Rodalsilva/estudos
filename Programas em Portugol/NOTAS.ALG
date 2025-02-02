@@ -1,4 +1,6 @@
 Algoritmo "Notas"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 //Problema "notas"
 //Fazer um programa para ler as duas notas que um aluno obteve no primeiro
@@ -23,10 +25,10 @@ Inicio
  // Segue abaixo uma estrutura de seleção composta
 
  se nota_final > 60 então
-    escreval("Nota Final = ", nota_final)
+    escreval("Nota Final = ", nota_final:5:1)
     escreva("Aluno aprovado")
  senão
-    escreval("Nota Final = ", nota_final)
+    escreval("Nota Final = ", nota_final:5:1)
     escreva("Aluno reprovado")
  fimse
 
