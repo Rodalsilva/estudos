@@ -20,15 +20,3 @@ SomaN = (N*(L[0]+L[N-1]))/2
 print(f"Temos que a soma do número de termos desta P.A. é:")
 print(f"S_{N} = {SomaN}")
 
-
-
-
-
-
-
-
-
-
-
-        
-
