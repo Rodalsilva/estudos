@@ -9,15 +9,3 @@ S = L[1]*((math.pow(Q, len(L)-1) - 1)/(Q - 1))
 V = L[1:]
 print(f"A soma dos termos da sequência {V} é:")
 print(f"S_{len(V)} = {S}")
-
-
-
-
-
-
-
-
-
-
-        
-
