@@ -2,7 +2,7 @@
 y = 0
 t = [0]
 while y < len(t):
-    t[y] = input("Digite a data da ocorrência (comece escrevendo 0 e escreva 'pare' para parar): ")
+    t[y] = input("Digite a data da ocorrência (escreva 'pare' para parar): ")
     if t[y] == 'pare':
         break
     else:
